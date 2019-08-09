@@ -1,1 +1,1 @@
-# student
+# Django练习的仓库
